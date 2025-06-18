@@ -1,3 +1,6 @@
+📊 Sales Data Pipeline & Dashboard
+Python Pandas SQLAlchemy Power BI License
+
 # Sales Data Pipeline & Dashboard
 
 This project demonstrates a simple ETL (Extract, Transform, Load) pipeline for retail sales data, with a dashboard for visualization.
