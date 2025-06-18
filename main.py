@@ -4,7 +4,7 @@ from src.load import load_to_sql
 
 def main():
     print("🔄 Extracting raw data...")
-    df = extract_data(r"Data\raw\Online Retail.csv")
+    df = extract_data("Data/raw/Online Retail.csv")
     print(df.head())
     
 
